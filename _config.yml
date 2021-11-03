@@ -1,1 +1,19 @@
-theme: jekyll-theme-cayman
+name: xiaoyu 's blog
+description: Blogging about xiaoyu
+meta_description: "xiaoyu 's blog"
+
+markdown: kramdown
+highlighter: rouge
+logo: false
+paginate: 15
+baseurl: ""
+domain_name: "https://aaaweiyi.github.io/"
+google_analytics: "UA-XXXXXXXX-X"
+plugins: [jekyll-paginate]
+
+# Details for the RSS feed generator
+url: ""
+author: "xiaoyu"
+
+# Disqus config
+disqus-shortname: ""
